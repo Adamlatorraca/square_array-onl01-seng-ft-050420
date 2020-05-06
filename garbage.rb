@@ -2,7 +2,7 @@ array = [1, 2, 3]
 
 def square_array(array)
   final_array = []
-  array.collect { |n| n**2  }
+  array.collect { |n| ** 2 }
 
 
 
